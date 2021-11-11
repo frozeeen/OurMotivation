@@ -7,14 +7,15 @@
 	// List of motivations
 	var phrases = [
 		"It's ok to debug, we all do.",
-		"Don't refresh to hard.",
+		"Don't refresh too hard.",
 		"Refreshing multiple times, sometimes it's not gonna help you.",
 		"Maybe you forgot the semicolon? `;` this thing.",
 		"It's ok to take ☕ break... You know.",
 		"Did you know Javascript was created by NetScape?",
 		"Come here, lemme calm you down... Java and Javascript are the same.",
 		"Monitor is also a hardware that you can kick when you're angry.",
-		"Programming has made me smarter, now I know that < is greater than, and > is less than, oh wait."
+		"Programming has made me smarter, now I know that < is greater than, and > is less than, oh wait.",
+		"Can't think straight? Take a bath!"
 	];
 
 	// Throw Phrases
